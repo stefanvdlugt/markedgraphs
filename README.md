@@ -66,3 +66,9 @@ Likewise, the polynomial *f<sub>d</sub>(r)* that gives the number of contracted 
 
 The script `find_relations.py` can be used to compute some relations among tautological differential forms by using the identity *ω<sub>0</sub><sup>g+1</sup>=0*.
 It asks for integers r, s, and G, finds some relations in *R<sup>2G+2</sup>(C<sub>g</sub><sup>r</sup>)*, and takes fiber integrals to obtain relations in *R<sup>2G+2-2r+2s</sup>(C<sub>g</sub><sup>s</sup>)*.
+
+## Requirements
+The `markedgraphs` module requires `numpy`.
+
+The script `compute_fd.py` needs `sympy` to carry out Lagrange interpolation.
+The script `find_relations.py` uses `sagemath` to work with polynomial rings and vector spaces.
