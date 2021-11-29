@@ -3,6 +3,8 @@
 By Stefan van der Lugt (Universiteit Leiden). 
 An implementation of the algorithms in my PhD thesis *Tautological differential forms on moduli spaces of curves*.
 
+[![DOI](https://zenodo.org/badge/432973975.svg)](https://zenodo.org/badge/latestdoi/432973975)
+
 ## The class `MarkedGraph`
 The `markedgraphs` module provides a class `MarkedGraph` that serves as a model for marked graphs.
 
