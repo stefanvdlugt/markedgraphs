@@ -1,7 +1,7 @@
 # markedgraphs
 ### A Python module for working with marked graphs.
-*By Stefan van der Lugt. An implementation of the algorithms in my PhD thesis.*
-
+By Stefan van der Lugt (Universiteit Leiden). 
+An implementation of the algorithms in my PhD thesis *Tautological differential forms on moduli spaces of curves*.
 
 ## The class `MarkedGraph`
 The `markedgraphs` module provides a class `MarkedGraph` that serves as a model for marked graphs.
